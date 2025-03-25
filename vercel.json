@@ -10,6 +10,6 @@
     }],
     "crons": [{
         "path": "/api/task",
-        "schedule": "0 * * * *"
+        "schedule": "0 * *"
     }]
 }
